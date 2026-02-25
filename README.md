@@ -70,9 +70,6 @@ An interactive dashboard was created to visualize insights.
 - Interactive filters/slicers  
 - Clean business-friendly layout  
 
-📷 *(Add dashboard screenshot here)*
-
----
 
 ## 📈 Results & Insights
 - Identified key performance trends  
@@ -80,20 +77,9 @@ An interactive dashboard was created to visualize insights.
 - Discovered data quality issues  
 - Provided actionable business recommendations  
 
-*(Add 3–4 bullet insights specific to your project)*
-
----
 
 ## 📑 Report & Presentation
 - Detailed analytical report prepared  
 - Business presentation created using Gamma  
 - Insights communicated with clear visuals  
 
----
-
-## ▶️ How to Run This Project
-
-### Step 1: Clone the repository
-```bash
-git clone <your-repo-link>
-cd <project-folder>
